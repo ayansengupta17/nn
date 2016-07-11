@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finally I set did setup Jekyll on GitHun !
+title: Finally I set did setup Jekyll on GitHub !
 published: true
 ---
 
