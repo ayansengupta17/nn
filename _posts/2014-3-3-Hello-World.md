@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Finally I set did setup Jekyll on GitHun !
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+The setup is quite easy, and you just need to spend an hour, to do the required setup. The documentation is very well written on the Jekyll site.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+I do the editing online in [prose.io](www.prose.io)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Thank you for visiting my blog.
+Any suggestion is always welcomed.
